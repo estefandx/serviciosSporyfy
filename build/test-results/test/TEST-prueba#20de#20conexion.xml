@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="prueba de conexion" tests="2" skipped="1" failures="0" errors="0" timestamp="2019-11-24T19:44:39" hostname="DESKTOP-O2DR5BF" time="0.244">
+  <properties/>
+  <testcase name="prueba de conexion con spotyfy" classname="prueba de conexion" time="0.007">
+    <skipped/>
+  </testcase>
+  <testcase name="crear usuario" classname="prueba de conexion" time="0.136"/>
+  <system-out><![CDATA[?[33mU?[0m?[32m.?[0m]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

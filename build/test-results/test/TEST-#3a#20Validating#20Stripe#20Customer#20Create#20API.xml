@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name=": Validating Stripe Customer Create API" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-11-24T19:44:27" hostname="DESKTOP-O2DR5BF" time="6.895">
+  <properties/>
+  <testcase name="Validate create customer api for multiple testdata" classname=": Validating Stripe Customer Create API" time="5.99"/>
+  <testcase name="Validate create customer api for multiple testdata" classname=": Validating Stripe Customer Create API" time="0.837"/>
+  <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[32m.?[0m{
+  "id": "cus_GEuqfqWvFebDJR",
+  "object": "customer",
+  "address": null,
+  "balance": 0,
+  "created": 1574624672,
+  "currency": null,
+  "default_source": null,
+  "delinquent": false,
+  "description": "This is a test customer for w2a",
+  "discount": null,
+  "email": "rahul.jhaw2a@way2automation.com",
+  "invoice_prefix": "5B2BC17D",
+  "invoice_settings": {
+    "custom_fields": null,
+    "default_payment_method": null,
+    "footer": null
+  },
+  "livemode": false,
+  "metadata": {
+  },
+  "name": null,
+  "phone": null,
+  "preferred_locales": [
+
+  ],
+  "shipping": null,
+  "sources": {
+    "object": "list",
+    "data": [
+
+    ],
+    "has_more": false,
+    "total_count": 0,
+    "url": "/v1/customers/cus_GEuqfqWvFebDJR/sources"
+  },
+  "subscriptions": {
+    "object": "list",
+    "data": [
+
+    ],
+    "has_more": false,
+    "total_count": 0,
+    "url": "/v1/customers/cus_GEuqfqWvFebDJR/subscriptions"
+  },
+  "tax_exempt": "none",
+  "tax_ids": {
+    "object": "list",
+    "data": [
+
+    ],
+    "has_more": false,
+    "total_count": 0,
+    "url": "/v1/customers/cus_GEuqfqWvFebDJR/tax_ids"
+  },
+  "tax_info": null,
+  "tax_info_verification": null
+}
+
+?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m?[32m.?[0m{
+  "id": "cus_GEuqGPgA3YaDF0",
+  "object": "customer",
+  "address": null,
+  "balance": 0,
+  "created": 1574624674,
+  "currency": null,
+  "default_source": null,
+  "delinquent": false,
+  "description": "This is a java trainer customer for w2a",
+  "discount": null,
+  "email": "javatrainer@way2automation.com",
+  "invoice_prefix": "57197BB4",
+  "invoice_settings": {
+    "custom_fields": null,
+    "default_payment_method": null,
+    "footer": null
+  },
+  "livemode": false,
+  "metadata": {
+  },
+  "name": null,
+  "phone": null,
+  "preferred_locales": [
+
+  ],
+  "shipping": null,
+  "sources": {
+    "object": "list",
+    "data": [
+
+    ],
+    "has_more": false,
+    "total_count": 0,
+    "url": "/v1/customers/cus_GEuqGPgA3YaDF0/sources"
+  },
+  "subscriptions": {
+    "object": "list",
+    "data": [
+
+    ],
+    "has_more": false,
+    "total_count": 0,
+    "url": "/v1/customers/cus_GEuqGPgA3YaDF0/subscriptions"
+  },
+  "tax_exempt": "none",
+  "tax_ids": {
+    "object": "list",
+    "data": [
+
+    ],
+    "has_more": false,
+    "total_count": 0,
+    "url": "/v1/customers/cus_GEuqGPgA3YaDF0/tax_ids"
+  },
+  "tax_info": null,
+  "tax_info_verification": null
+}
+
+?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
